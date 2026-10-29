@@ -1,0 +1,48 @@
+# Dependencies and local caches, at any depth in the repository
+node_modules/
+.npm-cache*/
+.expo/
+.cache/
+.metro-cache/
+
+# Generated output and temporary working directories
+dist/
+build/
+web-build/
+coverage/
+tmp/
+.local-backup/
+SDK57_Backup_*/
+Bai*_Backup_*/
+Bai3_TabBar_Backup_*/
+*.log
+*.tsbuildinfo
+*.orig.*
+*.apk
+*.aab
+*.ipa
+.gradle/
+.cxx/
+
+# Local editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local environment and signing credentials
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Working prompts and submission archives generated from the retained files
+/Lab*/prompt.txt
+/Lab*/.write-check
+/Lab*/23521720_BTTH*.zip

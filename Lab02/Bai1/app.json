@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Social Media Feed",
+    "slug": "bai1-social-media-feed-components",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}

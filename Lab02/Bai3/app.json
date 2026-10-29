@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "React Navigation Lab",
+    "slug": "bai3-react-navigation",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}

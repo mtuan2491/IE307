@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Settings and Feedback",
+    "slug": "bai2-settings-feedback",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
